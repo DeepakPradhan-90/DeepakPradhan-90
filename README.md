@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Deepak Pradhan and I am a developer 
-- 👀 I’m interested in mobile and web apps learning new tools and languages
+- 👀 I’m interested in mobile and web apps, learning new tools and languages
 - 🌱 I’m currently learning flutter ✌️
 
 <!---
